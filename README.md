@@ -20,7 +20,7 @@
 <body>
 
 <header>
-    <h1>Welcome to My Thread Shop</h1>
+    <h1>Welcome to My Thread Shop</h1
 </header>
 
 <section class="products">
